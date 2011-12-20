@@ -1,0 +1,17 @@
+{
+  "author": "But <butu25@gmail.com> (https://github.com/butu5) and Tiklu Ganguly <tikluganguly@gmail.com> (https://github.com/tikluganguly)",
+  "name": "chat.js",
+  "description": "Chat.js - Node.js chat server",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/butu5/chat.js.git"
+  },
+  "engines": {
+    "node": "~0.6.5"
+  },
+  "dependencies": {
+    "socket.io": "~0.8.7"
+  },
+  "devDependencies": {}
+}
